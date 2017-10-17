@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+h1,p{
+margin: 10px 15px;
+padding: 0;
+text-align: justify;
+}
+
+img{width: 200px;height: 200px;float:right;}
+
+
